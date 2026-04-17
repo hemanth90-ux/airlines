@@ -1,1 +1,2 @@
-ddl, dml, tcl, dql, [D[D[D[C[C dcl
+ddl, dml, tcl, dql, dcl
+ddl -create,alter,modify,drop,truncate
